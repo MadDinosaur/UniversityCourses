@@ -1,3 +1,5 @@
+package isep;
+
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
@@ -311,6 +313,6 @@ public class BST<E extends Comparable<E>> {
 
 
 
-  
 
-  
+
+

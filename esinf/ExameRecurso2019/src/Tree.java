@@ -1,3 +1,5 @@
+import isep.BST;
+
 import java.util.LinkedList;
 import java.util.List;
 
@@ -27,3 +29,4 @@ public class Tree<E extends Comparable<E>> extends BST<E> {
 
     }
 }
+
